@@ -29,9 +29,10 @@ https://travelopia-home-assignment.netlify.app/
 ![desktop view](https://github.com/Aditya-Choudhary0/travelopia_Assignment/assets/113030961/839e6065-c794-4605-baa8-e40152728742)
 
 3. Mobile View :
+
 ![mobile view](https://github.com/Aditya-Choudhary0/travelopia_Assignment/assets/113030961/cc8c196c-eac4-48c9-b3b5-d886651dd30d)
 
-4. Pop-up :
+5. Pop-up :
 ![popup](https://github.com/Aditya-Choudhary0/travelopia_Assignment/assets/113030961/9e646646-f199-4107-89c2-8ca350d09cf0)
 
 ## Design Element
