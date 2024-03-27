@@ -1,5 +1,7 @@
 # travelopia_Assignment
 
+A static website project built using HTML, CSS, and JavaScript. With fluid responsiveness, stunning visuals, and engaging pop-up alerts.
+
 ## Deployed Link
 
 https://travelopia-home-assignment.netlify.app/
